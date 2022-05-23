@@ -1,1 +1,1 @@
-i am clojure-scout program - i explore clojure language program
+i don't like green food
